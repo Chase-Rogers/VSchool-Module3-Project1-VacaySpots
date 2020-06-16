@@ -1,4 +1,4 @@
-let Vacationspots = [
+let vacationSpots = [
     {
         id: 1,
         place: "Meridian, Idaho",
@@ -37,4 +37,4 @@ let Vacationspots = [
     }
 ];
 
-export default Vacationspots;
+export default vacationSpots;

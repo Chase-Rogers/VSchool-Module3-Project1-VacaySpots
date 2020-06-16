@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
 import Card from "./Card.js";
-import Vacationspots from "./Vacationspots";
+import vacationSpots from "./vacationSpots";
 
 function App() {
-    const vacaySpots = Vacationspots.map((spot) => (
+    const vacaySpots = vacationSpots.map((spot) => (
         <Card
             key={spot.id}
             place={spot.place}
