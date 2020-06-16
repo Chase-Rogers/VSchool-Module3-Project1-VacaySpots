@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 50vw;
+    border: 1px solid black;
+    margin: 30px auto 0 auto;
+    box-shadow: 5px 10px #888888;
+    background-color: rgb(106, 176, 179);
+}
